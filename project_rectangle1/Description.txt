@@ -1,2 +1,3 @@
 Este paquete contiene un modulo llamado `shape` en el que se encuentran diversas clases para manejar figuras geométricas específicas, 
-y conocer algunas de sus características (áreas, perímetros, etc.). Y un script llamado `main` en el que hay una pequeña prueba de funcionamiento del sistema.
+y conocer algunas de sus características (áreas, perímetros, etc.). Además de un pequeño script llamado `main` en el que se encuentra una prueba 
+de funcionamiento del sistema.
