@@ -4,6 +4,7 @@ Este código está organizado en clases que representan diversas formas geométr
 
 En cuanto a las excepciones, el código maneja errores mediante la excepción personalizada `InvalidShapeError`, que se lanza cuando se intentan crear formas con puntos inválidos o al realizar cálculos con configuraciones incorrectas. Se utilizan bloques `try-except` para capturar errores durante los cálculos de ángulos o áreas, y `raise` para lanzar excepciones personalizadas.
 
+
 ``` python
 import math
 
