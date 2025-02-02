@@ -1,5 +1,12 @@
 # reto_06
 
+### 1. Excepciones en reto_01
+***
+Este proyecto en Jupyter Notebook incluye cinco códigos separados, que corresponden al reto 1 de la materia. Las excepciones se manejan mediante clases personalizadas, estructuras `try-except` y la palabra clave `raise`, lo que permite gestionar errores controlada en cada tarea.
+***
+
+### 2. Excepciones en reto_05 (paquete `Shape`)
+***
 Este código está organizado en clases que representan diversas formas geométricas, como puntos, líneas, triángulos, rectángulos y cuadrados, y permite calcular propiedades como perímetros, áreas y ángulos. La clase base `Shape` gestiona un conjunto de puntos y calcula el perímetro de la forma, además de verificar si la figura es regular, es decir, si todos sus lados y ángulos son iguales. Cada clase específica, como `Triangle` y `Rectangle`, se encargan de asegurar que sus características sean válidas, como en el caso de un triángulo que debe tener tres puntos o un rectángulo que debe tener ángulos de 90 grados.
 
 En cuanto a las excepciones, el código maneja errores mediante la excepción personalizada `InvalidShapeError`, que se lanza cuando se intentan crear formas con puntos inválidos o al realizar cálculos con configuraciones incorrectas. Se utilizan bloques `try-except` para capturar errores durante los cálculos de ángulos o áreas, y `raise` para lanzar excepciones personalizadas.
@@ -198,3 +205,4 @@ class Square(Rectangle):
                 "A square must have 4 equal sides and right angles")
 
 ```
+***
