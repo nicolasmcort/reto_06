@@ -3,7 +3,7 @@
 
 ### 1. Excepciones en reto_01
 
-Este proyecto en Jupyter Notebook incluye cinco códigos separados, que corresponden al reto 1 de la materia. Las excepciones se manejan mediante clases personalizadas, estructuras `try-except` y la palabra clave `raise`, lo que permite gestionar errores controlada en cada tarea.
+Este proyecto en Jupyter Notebook incluye cinco códigos separados, que corresponden al reto 1 de la materia. Las excepciones se manejan mediante clases personalizadas, estructuras `try-except` y la palabra clave `raise`, lo que permite gestionar errores de forma controlada en cada tarea.
 ***
 
 
